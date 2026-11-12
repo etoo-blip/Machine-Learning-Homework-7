@@ -1,0 +1,2 @@
+# Machine-Learning-Homework-7
+FULLY CONNECTED NEURAL NETWORKS FOR CIFAR-10
